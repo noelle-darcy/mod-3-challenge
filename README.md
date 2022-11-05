@@ -1,2 +1,10 @@
 # mod-3-challenge
-This repo will contain my module 3 challenge assignment. This is a simple webpage that will quiz the user on coding questions, accept the user's answer, take off time if inncorrect, then save time and user's initials to scoreboard. 
+
+## Description 
+This project will allow a user to select their password lenght and their password criteria and will generate a completely random password. 
+
+## Installation 
+There's no need to install anything, just run from 
+
+## Usage 
+User will click "Generate Password" and then input the length they would like their password to be and will then go through prompts that will ask about the criteria they would like their password to  meet. 
